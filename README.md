@@ -7,6 +7,10 @@
 ## Load Dataset
 
 ## Contoh Kode Model
+## Nama Kelompok:
+1. Revo Pratama - G1A022058
+2. Ahmad Radesta - G1A022086
+3. Ari Setiawan - G1A022092
 
 
 
