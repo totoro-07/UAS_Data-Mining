@@ -54,6 +54,6 @@ Notebook ini membahas model prediksi dropout mahasiswa berdasarkan data demograf
 3. Ikuti sel secara berurutan untuk melihat hasil prediksi dropout
 
 ## Evaluasi
-![Learning Curve](output.png)
+![Learning Curve](outputt.png)
 
 
